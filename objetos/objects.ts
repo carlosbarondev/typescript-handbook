@@ -12,6 +12,8 @@
         powers: ['Súper velocidad']
     }
 
+    console.log(flash);
+
     /*flash = {
         name: 'Clark Kent',
         //age: 60,
